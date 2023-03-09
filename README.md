@@ -10,6 +10,14 @@ NIMS-OS (NIMS Orchestration System) is a Python library to realize a closed loop
 
 # Required Packages
 
+- Python >= 3.6
+- Cython
+- matplotlib
+- numpy
+- physbo
+- scikit-learn
+- scipy
+
 # Install
 
 * From PyPI (recommended)
