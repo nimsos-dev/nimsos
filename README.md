@@ -22,11 +22,29 @@ NIMS-OS (NIMS Orchestration System) is a Python library to realize a closed loop
 
 * From PyPI (recommended)
 
+  ```bash
+  pip install physbo
+  ```
+
 * From source
 
-pip install .
+1. Download or clone the github repository
+
+  ```
+  git clone https://github.com/nimsos-dev/nimsos
+  ```
+
+1. Install via pip in the nimsos-main folder
+
+  ```bash
+  pip install .
+  ```
 
 # Uninstall
+
+```bash
+pip uninstall physbo
+```
 
 # License
 
