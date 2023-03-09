@@ -43,7 +43,7 @@ NIMS-OS (NIMS Orchestration System) is a Python library to realize a closed loop
 # Uninstall
 
 ```bash
-pip uninstall physbo
+pip uninstall nimsos
 ```
 
 # License
