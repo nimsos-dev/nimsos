@@ -28,13 +28,13 @@ NIMS-OS (NIMS Orchestration System) is a Python library to realize a closed loop
 
 * From source
 
-1. Download or clone the github repository
+  1. Download or clone the github repository
 
   ```
   git clone https://github.com/nimsos-dev/nimsos
   ```
 
-1. Install via pip in the nimsos-main folder
+  2. Install via pip in the nimsos-main folder
 
   ```bash
   pip install .
