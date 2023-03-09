@@ -2,6 +2,7 @@
 
 NIMS-OS (NIMS Orchestration System) is a Python library to realize a closed loop of robotic experiments and artificial intelligence without human intervention for automated materials exploration. NIMS-OS can perform automated materials exploration in various combinations by considering artificial intelligence and robotic experiments as modules (see the figure below). As artificial intelligence technique for materials science, Bayesian optimization method (PHYSBO), boundLess objective-free exploration method (BLOX), phase diagram construction method (PDC), and random exploration (RE) can be used. NIMS Automated Robotic Electrochemical Experiments (NAREE) system is available as robotic experiments. Visualization tools for the results are also included, allowing users to check optimization results in real time. Newly created modules for artificial intelligence and robotic experiments can be added and used. More modules will be added in the future.
 
+![modules](https://user-images.githubusercontent.com/125417779/223885447-f42fbc00-1b5b-4194-b2d6-e5f106f9a98b.png)
 
 # Document
 
