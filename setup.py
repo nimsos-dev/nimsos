@@ -4,7 +4,7 @@ setup(
     name="nimsos",
     version="1.0.0",
     author="NIMS-OS developers",
-    url="https://github.com/",
+    url="https://github.com/nimsos-dev/nimsos",
     license="MIT",
     description='NIMS-OS package',
     #packages=find_packages(where='nimsos'),
