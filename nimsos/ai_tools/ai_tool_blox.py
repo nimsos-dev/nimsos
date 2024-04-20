@@ -65,7 +65,7 @@ class BLOX():
 
         all_actions = [i for i in range(len(X_all))]
 
-        train_actions =list(set(all_actions) - set(test_actions))
+        train_actions = np.sort(list(set(all_actions) - set(test_actions)))
 
         return t_train, X_all, train_actions, test_actions
 
