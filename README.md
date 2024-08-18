@@ -1,4 +1,4 @@
-# nimsos (Update was stopped)
+# nimsos (Update was stopped from April 2024)
 
 # New version is released as nimo (https://github.com/NIMS-DA/nimo)
 
